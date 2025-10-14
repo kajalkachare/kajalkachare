@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kajalkachare" alt="kajalkachare" /></a> </p>
 
-- 🔭 I’m currently working on **Company Network Design Project By Using Cisco Packet tracer**
 
 - 🌱 I’m currently learning **Linux(RHCE)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kajalkachare?tab=projects](https://github.com/kajalkachare?tab=projects)
 
 - 💬 Ask me about **Computer Network, OSI Model, Network Topology,IP Configuration**
 
